@@ -1,0 +1,10 @@
+{
+  // Use the TypeScript that ships with the project, not VS Code's bundled copy.
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": false,
+  "files.exclude": {
+    "**/node_modules": true,
+    "dist": true,
+    "dist-demo": true
+  }
+}

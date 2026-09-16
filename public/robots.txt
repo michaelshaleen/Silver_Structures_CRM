@@ -1,0 +1,3 @@
+# A CRM has no business in search results.
+User-agent: *
+Disallow: /
